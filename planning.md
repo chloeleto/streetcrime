@@ -12,13 +12,14 @@ Bristol experiences a range of street crime incidents which impact not only the 
 - Understanding crime patterns enables businesses to reduce risks associated with theft, vandalism, and similar incidents, which can help lower insurance costs and prevent property damage.
 
 ### Options Considered  
-Currently, websites exist that map crime incidents across the UK, but they often cover broad regions.
-For example, national crime maps offer data that may not cater specifically to Bristols needs. An example of this is Police.uk
-Bristol-focused organizations would likely prefer localized data thats more affordable and relevant to them, in contrast to general UK crime data offered at high prices.
+National websites currently provide safety information and crime data for homebuyers in the UK. However, these platforms usually cover large areas and lack detailed specific insights for Bristol’s. For example, sites like police.uk offer broad crime data but no in-depth, localised information that communities in Bristol may need. 
+
+Homeowners in Bristol would likely benefit from a dedicated resource which offers precise data to support more informed decisions. A Bristol focused platform could deliver insights that are not just highly relevant but also cost-effective, address local crimes that are often overlooked by broader, national resources.  
 
 ### Expected Risks
-Risks include maintaining up-to-date and accurate crime data, as outdated information would undermine the projects credibility.
-Additionally, attracting and retaining the target audience (Bristol residents and local business owners) may be challenging if they already rely on other sources for similar information.
+Risks could arise with this project, one concern being data inaccuracies. Relying on open data sources could lead to outdated information that could mislead users. Privacy issues are also a factor to be considered. This is due to the fact that presenting localised crime data could create sensitivities if areas feel unfairly represented.  
+
+Additionally, there’s the risk that users may misinterpret data without proper context, this could lead to misconceptions about certain areas. As this site will depend on external data sources, any changes in data availability could possibly impact the functionality of the website. Another point to add is if a certain area in Bristol has one person who is actively committing crimes, the website could make the entire area look as if it is heavy with crime which could cause issues for those who live in the area. 
 
 ## Project Scope
 - Free and Premium User Options
