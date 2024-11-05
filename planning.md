@@ -3,14 +3,13 @@
 ## Business Case
 
 ### Problem statement
-Bristol experiences a range of street crime incidents, impacting the safety of residents, business owners, and visitors.
-Current resources, such as national crime maps, provide data but lack the depth of analysis specific to Bristol, which limits their usefulness for local decision-making. This project seeks to address the need for a Bristol-focused crime mapping solution that provides up-to-date, localised crime data, allowing users to make safer travel and business decisions. By visualising crime hotspots, this project aims to empower community members and support city planners in reducing crime frequency and impact in Bristol.
+Bristol experiences a range of street crime incidents which impact not only the safety of residents and businesses, but the socioeconomic status of the area. Current resources, such as national crime maps, provide data but lack the depth of analysis specific to Bristol. By creating a website tailored to the local area, we will be able to offer safety tips or resources linked to specific crimes, e.g., when the user clicks on an area with a high number of burglaries, they can receive practical advice on home security and/or to local police crime prevention programs. This addresses the need for a Bristol-focused crime mapping solution that provides localised crime data to appeal to the users' needs, rather than a large database of unfiltered and unnecessary information. For example, a business that is looking to establish a Bristol-based location does not need to know statistics on home burglaries. However, with the correct guidance from the website, we can help to facilitate the development of new business in up-and-coming areas. A website that clearly outlines crime trends and types can help potential entrepreneurs decide where to open stores, restaurants, or other businesses.  
 
 ### Business benefits
-- Reduction in street crime incidents through increased awareness and safer route planning.
-- Premium access to this mapped data could be monetised by offering specific details on crime trends and hot spots.
-- Data insights could support city planners and law enforcement in developing preventive measures and optimising patrol routes.
-- Partnership opportunities with GPS and navigation service providers to help users avoid high-risk areas in real time.
+- Homebuyers can use this business to assess the long-term property value trends to possibly identify areas where improvements to safety may boost future value. 
+- Provide quick access to crime data potentially helping future home owners make educated choices about about where to live, especially those prioritising family safety. 
+- Businesses, especially retail, hospitality, and service providers, can identify safe, high-traffic areas to attract customers without the concern of high crime affecting foot traffic. 
+- Understanding crime patterns enables businesses to reduce risks associated with theft, vandalism, and similar incidents, which can help lower insurance costs and prevent property damage.
 
 ### Options Considered  
 Currently, websites exist that map crime incidents across the UK, but they often cover broad regions.
