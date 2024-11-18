@@ -28,4 +28,4 @@ Additionally, there’s the risk that users may misinterpret data without proper
 - Required Technology
 - Mobile and Desktop Responsiveness
 
-Context Diagram found in [IMAGE.](images/context.png)
+Context Diagram found in [Image.](images/context.png)
