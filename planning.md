@@ -3,7 +3,7 @@
 ## Business Case
 
 ### Problem statement
-Bristol experiences a range of street crime incidents which impact not only the safety of residents and businesses, but the socioeconomic status of the area. Current resources, such as national crime maps, provide data but lack the depth of analysis specific to Bristol. By creating a website tailored to the local area, we will be able to offer safety tips or resources linked to specific crimes, e.g., when the user clicks on an area with a high number of burglaries, they can receive practical advice on home security and/or to local police crime prevention programs. This addresses the need for a Bristol-focused crime mapping solution that provides localised crime data to appeal to the users' needs, rather than a large database of unfiltered and unnecessary information. For example, a business that is looking to establish a Bristol-based location does not need to know statistics on home burglaries. However, with the correct guidance from the website, we can help to facilitate the development of new business in up-and-coming areas. A website that clearly outlines crime trends and types can help potential entrepreneurs decide where to open stores, restaurants, or other businesses. This can also protect pre-existing businesses by allowing the owners to see when and where incidents are most likely to occur, leading to adjustments such as altering operating hours, investing in security equipment, or participating in local crime prevention programs. Local council can also use the website to focus police patrols, initiate neighborhood watch programs, or fund youth centers and other community-building initiatives that may deter crime, as well as allocating funds for improved lighting, better pedestrian paths, or the installation of security cameras. 
+Bristol experiences a range of street crime incidents which impact not only the safety of residents and businesses, but the socioeconomic status of the area. Current resources, such as national crime maps, provide data but lack the depth of analysis specific to Bristol. By creating a website tailored to the local area, we will be able to offer safety tips or resources linked to specific crimes, e.g., when the user clicks on an area with a high number of burglaries, they can receive practical advice on home security and/or to local police crime prevention programs. This addresses the need for a Bristol-focused crime mapping solution that provides localised crime data to appeal to the users' needs, rather than a large database of unfiltered and unnecessary information. For example, a business that is looking to establish a Bristol-based location does not need to know statistics on home burglaries. However, with the correct guidance from the website, we can help to facilitate the development of new business in up-and-coming areas. A website that clearly outlines crime trends and types can help potential entrepreneurs decide where to open stores, restaurants, or other businesses.  
 
 ### Business benefits
 - Homebuyers can use this business to assess the long-term property value trends to possibly identify areas where improvements to safety may boost future value. 
@@ -12,20 +12,46 @@ Bristol experiences a range of street crime incidents which impact not only the 
 - Understanding crime patterns enables businesses to reduce risks associated with theft, vandalism, and similar incidents, which can help lower insurance costs and prevent property damage.
 
 ### Options Considered  
-National websites currently provide safety information and crime data for homebuyers in the UK. However, these platforms usually cover large areas and lack detailed specific insights for Bristol’s. For example, sites like police.uk offer broad crime data but no in-depth, localised information that communities in Bristol may need. 
-
-Homeowners in Bristol would likely benefit from a dedicated resource which offers precise data to support more informed decisions. A Bristol focused platform could deliver insights that are not just highly relevant but also cost-effective, address local crimes that are often overlooked by broader, national resources.  
+Currently, websites exist that map crime incidents across the UK, but they often cover broad regions.
+For example, national crime maps offer data that may not cater specifically to Bristols needs. An example of this is Police.uk
+Bristol-focused organizations would likely prefer localized data thats more affordable and relevant to them, in contrast to general UK crime data offered at high prices.
 
 ### Expected Risks
-Risks could arise with this project, one concern being data inaccuracies. Relying on open data sources could lead to outdated information that could mislead users. Privacy issues are also a factor to be considered. This is due to the fact that presenting localised crime data could create sensitivities if areas feel unfairly represented.  
-
-Additionally, there’s the risk that users may misinterpret data without proper context, this could lead to misconceptions about certain areas. As this site will depend on external data sources, any changes in data availability could possibly impact the functionality of the website. Another point to add is if a certain area in Bristol has one person who is actively committing crimes, the website could make the entire area look as if it is heavy with crime which could cause issues for those who live in the area. 
+Risks include maintaining up-to-date and accurate crime data, as outdated information would undermine the projects credibility.
+Additionally, attracting and retaining the target audience (Bristol residents and local business owners) may be challenging if they already rely on other sources for similar information.
 
 ## Project Scope
-- Free and Premium User Options
-- Data Source: Open Data Bristol
-- Website Hosting and Infrastructure
-- Required Technology
-- Mobile and Desktop Responsiveness
+The project aims to deliver a user-friendly, Bristol-focused street crime mapping solution with the following features:
 
-Context Diagram found in [Image.](images/context.png)
+    Interactive Crime Map
+    - Users can explore an interactive map showing crime data by area.
+    - Different crime types (e.g., burglaries, theft, vandalism) are categorized and visually represented.
+    - Filters enable users to sort data by type, severity, or time period.
+
+    Localized Safety Insights
+    - Each area includes crime prevention tips tailored to prevalent issues (e.g., burglary prevention for high-burglary zones).
+    - Links to relevant resources, such as local police programs and community safety initiatives.
+
+    Data Insights and Analysis
+    - Generate graphs and heatmaps to identify trends in crime over time.
+    - Provide analysis on safe areas for families, property investment, or business opportunities.
+
+    User Accounts
+    - Free Users: Access to basic features, such as browsing crime data and viewing general safety tips.
+    - Premium Users: Unlock advanced features like detailed trend reports, neighborhood comparisons, and personalized alerts for selected areas.
+
+    Neighborhood Comparison Tool
+    - Compare crime rates and safety measures between different areas in Bristol to support decisions for homebuyers and businesses.
+
+    Mobile and Desktop Responsiveness
+    - Fully optimized for use on both mobile and desktop devices, ensuring accessibility and a smooth user experience.
+
+    Integration with Open Data Bristol
+    - Regularly updated data sourced from Open Data Bristol ensures reliability and relevance.
+
+    Search and Navigation Features
+    - Users can search for specific areas, streets, or crime types for detailed insights.
+
+By focusing on these capabilities, the platform will empower Bristol residents, businesses, and potential newcomers with localized, actionable crime data tailored to their specific needs.
+
+Context Diagram found in images/context.png
