@@ -25,46 +25,27 @@ TODO: Describe each use case (at least one per team member).
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
 | USE –CASE 1 | BUSINESS OWNER |  
-
 | -------------------------------------- | ------------------- | 
-
 | **Description** | A business owner seeks to identify neighborhoods or areas with high foot traffic while ensuring safety from high crime rates to maximize customer visits and protect the business’s reputation. | 
-
 | **Actors** | - Primary Actor: Business Owner | 
-
 | | - Supporting Actors: Local Police Department (for crime data), Traffic Monitoring System, Commercial Real Estate Agents, Local Government (for zoning and safety regulations) | 
-
 | **Assumptions** | The business owner has access to local crime data and traffic statistics. | 
-
 | | - The real estate database or mapping service provides accurate information on foot traffic and safety in different areas. | 
-
 | | - Data sources are up-to-date. </td></tr> | 
-
 | **Steps** | 1. The business owner defines the criteria for a "high-traffic" area (e.g., busy streets, proximity to schools, parks, or other commercial centers). | 
-
 ||2. The business owner reviews available crime data for these areas. | 
-
 ||3. The business owner identifies high-traffic areas with low crime rates. | 
-
 ||4. The business owner compares rent/prices and availability of properties in those areas. |  
-
 ||5. The business owner selects the most suitable area for opening a business based on the combined factors of safety and foot traffic. | 
-
 | **Variations** | 1. The business owner finds no suitable areas with both high traffic and low crime, requiring a reassessment of business location priorities. | 
-
 ||2. If crime data is unavailable or outdated, the owner may have to rely on local perceptions or anecdotal information. | 
-
 | **Non-functional** | - Performance: Data sources should be updated regularly, with real-time crime and traffic data accessible to the business owner. | 
-
 | | - Usability: The interface for reviewing crime and traffic data should be user-friendly. | 
-
 | | - Security: Business owner data and property search information should be securely stored. | 
-
 | **Issues** | - Inaccurate or outdated crime data could lead to incorrect decisions about location. | 
-
 | | - High-traffic areas may come with higher property costs, which may not align with the business owner's budget. | 
-
 | | - Local crime spikes (e.g., temporary) may not be reflected in crime data. | 
+
 
 | USE-CASE 2 | PEDESTRIAN |  
 | -------------------------------------- | ------------------- | 
