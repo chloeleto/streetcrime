@@ -54,4 +54,4 @@ The project aims to deliver a user-friendly, Bristol-focused street crime mappin
 
 By focusing on these capabilities, the platform will empower Bristol residents, businesses, and potential newcomers with localized, actionable crime data tailored to their specific needs.
 
-Context Diagram found in images/context.png
+Context Diagram found here -> [click me!](images/context.png)
