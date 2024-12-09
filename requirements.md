@@ -72,26 +72,15 @@ TODO: Describe each use case (at least one per team member).
 | USE-CASE 3 | TODO: USE-CASE NAME |  
 | -------------------------------------- | ------------------- | 
 | **Description** | A local authority member aims to enforce community policing | 
-|| initiatives, including fostering relationships with residents and increasing law | 
-|| enforcement visibility, to reduce crime and improve overall public safety and quality of | 
-|| life. | 
-| **Actors** | - Primary Actor: Local Authority Member (Police Officer,  Community | 
-|| Liaison) | 
-|| - Supporting Actors: Local Residents, Community Watch Groups, Law Enforcement | 
-|| Agencies, City Council, Data Systems (crime databases, traffic systems) | 
-| **Assumptions** | - The local authority has access to accurate crime data and |  
-|| community | 
-|| feedback. |
-|| - Residents are open to community policing efforts and will cooperate with law | 
-|| enforcement. | 
+|| initiatives, including fostering relationships with residents and increasing law enforcement visibility, to reduce crime and improve overall public safety and quality of life. | 
+| **Actors** | - Primary Actor: Local Authority Member (Police Officer,  Community Liaison) | 
+|| - Supporting Actors: Local Residents, Community Watch Groups, Law Enforcement Agencies, City Council, Data Systems (crime databases, traffic systems) | 
+| **Assumptions** | - The local authority has access to accurate crime data and community feedback. | Residents are open to community policing efforts and will cooperate with law enforcement. | 
 || - Sufficient resources (personnel, time) are available for community policing efforts. |  
 || </td></tr> | 
-| **Steps** | 1. Local authority member analyzes crime data and identifies high-crime | 
-|| areas. | 
-||2. Local authority develops a community policing strategy tailored to those areas (e.g., | 
-|| neighborhood patrols, community meetings). | 
-||3. The authority engages residents through outreach programs, town halls, and | 
-|| partnerships with community organizations. | 
+| **Steps** | 1. Local authority member analyzes crime data and identifies high-crime areas. | 
+||2. Local authority develops a community policing strategy tailored to those areas (e.g., neighborhood patrols, community meetings). | 
+||3. The authority engages residents through outreach programs, town halls, and partnerships with community organizations. | 
 ||4. Community policing initiatives are deployed (e.g., regular patrols, increased officer |  
 || presence). | 
 ||5. Local authority gathers ongoing feedback from the community to evaluate | 
