@@ -79,19 +79,14 @@ TODO: Describe each use case (at least one per team member).
 | **Steps** | 1. Local authority member analyzes crime data and identifies high-crime areas. | 
 ||2. Local authority develops a community policing strategy tailored to those areas (e.g., neighborhood patrols, community meetings). | 
 ||3. The authority engages residents through outreach programs, town halls, and partnerships with community organizations. | 
-||4. Community policing initiatives are deployed (e.g., regular patrols, increased officer |  
-|| presence). | 
-||5. Local authority gathers ongoing feedback from the community to evaluate | 
-|| effectiveness and make adjustments. | 
-||6. The authority continues monitoring crime data, adjusting patrols or engagement efforts| | | based on evolving crime patterns. | 
-| **Variations** | 1. If community members are resistant to community policing, additional | 
-|| outreach or conflict resolution efforts may be required. | 
-||2. If crime data shows new hotspots, the local authority may need to shift resources to | 
-|| address these areas. | 
+||4. Community policing initiatives are deployed (e.g., regular patrols, increased officer presence). | 
+||5. Local authority gathers ongoing feedback from the community to evaluate effectiveness and make adjustments. | 
+||6. The authority continues monitoring crime data, adjusting patrols or engagement efforts based on evolving crime patterns. | 
+| **Variations** | 1. If community members are resistant to community policing, additional outreach or conflict resolution efforts may be required. | 
+||2. If crime data shows new hotspots, the local authority may need to shift resources to address these areas. | 
 | **Non-functional** | - Performance: Real-time data analysis and monitoring of crime trends. | 
 || - Usability: The tools used for communication with the community (e.g., websites, apps, | | or hotlines) should be user-friendly and accessible. | 
-|| - Scalability: The community policing program should be scalable to different | 
-|| neighborhoods with varying levels of crime. | 
+|| - Scalability: The community policing program should be scalable to different neighborhoods with varying levels of crime. | 
 | **Issues** | - Limited community engagement or resistance to policing initiatives could |    | |hinder program effectiveness. | 
 || - Budget constraints could limit the number of officers available for community patrols. | 
 || - Inconsistent crime data or lack of updated information could lead to ineffective deployment of resources.| 
