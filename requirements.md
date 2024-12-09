@@ -69,7 +69,7 @@ TODO: Describe each use case (at least one per team member).
 ||- Budget constraints could limit the number of officers available for community patrols.  |
 ||- Inconsistent crime data or lack of updated information could lead to ineffective deployment of resources. | 
 
-| USE-CASE 3 | TODO: USE-CASE NAME |  
+| USE-CASE 3 | LOCAL COUNCIL & AUTHORITIES |  
 | -------------------------------------- | ------------------- | 
 | **Description** | A local authority member aims to enforce community policing initiatives, including fostering relationships with residents and increasing law enforcement visibility, to reduce crime and improve overall public safety and quality of life. | 
 | **Actors** | - Primary Actor: Local Authority Member (Police Officer,  Community Liaison) | 
