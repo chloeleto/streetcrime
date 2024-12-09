@@ -71,8 +71,7 @@ TODO: Describe each use case (at least one per team member).
 
 | USE-CASE 3 | TODO: USE-CASE NAME |  
 | -------------------------------------- | ------------------- | 
-| **Description** | A local authority member aims to enforce community policing initiatives, including fostering relationships with residents and increasing 
-law enforcement visibility, to reduce crime and improve overall public safety and quality of life. | 
+| **Description** | A local authority member aims to enforce community policing initiatives, including fostering relationships with residents and increasing law enforcement visibility, to reduce crime and improve overall public safety and quality of life. | 
 | **Actors** | - Primary Actor: Local Authority Member (Police Officer,  Community Liaison) | 
 || - Supporting Actors: Local Residents, Community Watch Groups, Law Enforcement Agencies, City Council, Data Systems (crime databases, traffic systems) | 
 | **Assumptions** | - The local authority has access to accurate crime data and community feedback. | Residents are open to community policing efforts and will cooperate with law enforcement. | 
