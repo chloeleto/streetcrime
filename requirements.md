@@ -71,13 +71,12 @@ TODO: Describe each use case (at least one per team member).
 
 | USE-CASE 3 | TODO: USE-CASE NAME |  
 | -------------------------------------- | ------------------- | 
-| **Description** | A local authority member aims to enforce community policing | 
-|| initiatives, including fostering relationships with residents and increasing law enforcement visibility, to reduce crime and improve overall public safety and quality of life. | 
+| **Description** | A local authority member aims to enforce community policing initiatives, including fostering relationships with residents and increasing 
+law enforcement visibility, to reduce crime and improve overall public safety and quality of life. | 
 | **Actors** | - Primary Actor: Local Authority Member (Police Officer,  Community Liaison) | 
 || - Supporting Actors: Local Residents, Community Watch Groups, Law Enforcement Agencies, City Council, Data Systems (crime databases, traffic systems) | 
 | **Assumptions** | - The local authority has access to accurate crime data and community feedback. | Residents are open to community policing efforts and will cooperate with law enforcement. | 
 || - Sufficient resources (personnel, time) are available for community policing efforts. |  
-|| </td></tr> | 
 | **Steps** | 1. Local authority member analyzes crime data and identifies high-crime areas. | 
 ||2. Local authority develops a community policing strategy tailored to those areas (e.g., neighborhood patrols, community meetings). | 
 ||3. The authority engages residents through outreach programs, town halls, and partnerships with community organizations. | 
@@ -90,15 +89,14 @@ TODO: Describe each use case (at least one per team member).
 || outreach or conflict resolution efforts may be required. | 
 ||2. If crime data shows new hotspots, the local authority may need to shift resources to | 
 || address these areas. | 
-| **Non-functional** | - Performance: Real-time data analysis and monitoring of crime | 
-||trends. | 
+| **Non-functional** | - Performance: Real-time data analysis and monitoring of crime trends. | 
 || - Usability: The tools used for communication with the community (e.g., websites, apps, | | or hotlines) should be user-friendly and accessible. | 
 || - Scalability: The community policing program should be scalable to different | 
 || neighborhoods with varying levels of crime. | 
 | **Issues** | - Limited community engagement or resistance to policing initiatives could |    | |hinder program effectiveness. | 
 || - Budget constraints could limit the number of officers available for community patrols. | 
-|| - Inconsistent crime data or lack of updated information could lead to ineffective |  
-|| deployment of resources.| 
+|| - Inconsistent crime data or lack of updated information could lead to ineffective deployment of resources.| 
+
 TODO: Your Use-Case diagram should include all use-cases.
 
 ![Insert your Use-Case Diagram Here](images/use-case.png)
