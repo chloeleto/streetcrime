@@ -3,8 +3,15 @@
 ## User Needs
 
 ### User stories
-TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
+- As a business owner I want to identify safe, high-traffic areas to attract customers so that high crime does not affect foot traffic to my business. 
+
+- As a pedestrian I want to see data about pedestrian-involved crime in areas that I frequently walk so that I know the safest areas to walk in. 
+
+- As a member of the local authorities, I want to enforce community policing so that we can reduce crime, improve safety, and enhance the quality of life in the area. 
+
+- As a real estate agent I want information on crime rates, neighborhood safety, and community amenities so that I can help clients make informed decisions in their choice of home. 
+
+- As a member of the local council I want access to predictive crime data, so that I can plan for future challenges and mitigate risks proactively 
 
 ### Actors
 TODO: List and describe the actors/users for this product.
