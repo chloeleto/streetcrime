@@ -20,19 +20,6 @@
 - Local authorities & council 
 
 ### Use Cases
-TODO: Describe each use case (at least one per team member).
-    Give each use case a unique ID, e.g. UC1, UC2, ...
-    Summarise these using the use-case template below.
-
-| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
-| -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
-| **Actors** | TODO: List of actors involved in use case |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
 | USE –CASE 1 | BUSINESS OWNER |  
 | -------------------------------------- | ------------------- | 
@@ -107,14 +94,38 @@ TODO: Your Use-Case diagram should include all use-cases.
 
 ## Software Requirements Specification
 ### Functional requirements
-TODO: create a list of functional requirements. 
-    e.g. "The system shall ..."
-    Give each functional requirement a unique ID. e.g. FR1, FR2, ...
-    Indicate which UC the requirement comes from.
+- Crime data visualisation 
+
+    - Users can view crime incidents on an interactive map, with the ability to filter data by crime type (e.g. burglary, theft, assault) and timeframe (daily, weekly or   monthly). The map should clearly highlight high-crime areas, helping users make informed decisions. 
+
+- Localised crime data 
+
+    - When users click on a specific area, the system provides detailed data for that location, such as crime rates, types of incidents, and any related trends. The system should also offer tailored safety advice based on the crime type (e.g., home security tips for burglary-prone areas). 
+
+- Business-focused tools 
+
+    - The platform should allow business owners to analyze crime patterns in specific areas to identify safe, high-traffic locations. It should provide insights on crime-related risks, such as theft or vandalism, and help businesses reduce their exposure through strategic decisions, including security investments and adjusted operating hours. 
+
+- Real-time data integration 
+
+    - The system must fetch and display real-time crime data from trusted sources (such as local police reports or government databases). It should ensure that the displayed information is always current, with frequent updates to reflect ongoing changes in crime patterns. 
 
 
 ### Non-Functional Requirements
-TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
+- Performance and Scalability: 
+
+    - The system should be able to handle a large volume of users and data without performance degradation. As user numbers increase, the platform should remain responsive and continue to provide quick access to crime data. 
+
+- Security and Privacy: 
+
+    - All personal data, such as user profiles or crime reports, must be securely stored and processed. The platform should comply with data protection regulations (e.g., GDPR) to safeguard user privacy and ensure sensitive information is handled appropriately. 
+
+- Usability: 
+
+    - The system should have an intuitive, user-friendly interface that is easy to navigate, even for individuals with limited technical knowledge. This includes clear map visualizations, simple search and filter options, and straightforward instructions to help users quickly access the information they need. 
+
+- Data Accuracy and Integrity: 
+
+    - The platform should only present accurate, up-to-date crime data sourced from reputable authorities. Mechanisms for verifying the reliability of data and flagging inaccuracies should be in place, ensuring that users receive correct and trustworthy information at all times. 
 
 Indicate which UC the requirement comes from.
