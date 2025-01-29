@@ -14,7 +14,10 @@
 - As a member of the local council I want access to predictive crime data, so that I can plan for future challenges and mitigate risks proactively 
 
 ### Actors
-TODO: List and describe the actors/users for this product.
+- Business & property owners 
+- Real estate agents 
+- Pedestrians 
+- Local authorities & council 
 
 ### Use Cases
 TODO: Describe each use case (at least one per team member).
