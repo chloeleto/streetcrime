@@ -21,7 +21,7 @@
 
 ### Use Cases
 
-| USE –CASE 1 | BUSINESS OWNER |  
+| USE –CASE 1 | IDENTIFY CRIME HOTSPOTS |  
 | -------------------------------------- | ------------------- | 
 | **Description** | A business owner seeks to identify neighborhoods or areas with high foot traffic while ensuring safety from high crime rates to maximize customer visits and protect the business’s reputation. | 
 | **Actors** | - Primary Actor: Business Owner | 
@@ -44,7 +44,7 @@
 | | - Local crime spikes (e.g., temporary) may not be reflected in crime data. | 
 
 
-| USE-CASE 2 | PEDESTRIAN |  
+| USE-CASE 2 | DETERMINE THE SAFEST WALKING ROUTE |  
 | -------------------------------------- | ------------------- | 
 | **Description** | A pedestrian wants to access real-time data about pedestrian-related crime in areas they frequently walk in order to make informed decisions about which| areas are the safest to walk through. | 
 | **Actors** | - Primary Actor: Pedestrian (User)  |
