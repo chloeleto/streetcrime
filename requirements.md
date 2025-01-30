@@ -3,7 +3,7 @@
 ## User Needs
 
 ### User stories
-- As a business owner I want to identify safe, high-traffic areas to attract customers so that high crime does not affect foot traffic to my business. 
+- As a business owner I want to identify crime hotspots . 
 
 - As a pedestrian I want to see data about pedestrian-involved crime in areas that I frequently walk so that I know the safest areas to walk in. 
 
