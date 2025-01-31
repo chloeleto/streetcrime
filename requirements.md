@@ -7,10 +7,10 @@
 
 - As a pedestrian I want to determine the safest walking route for me to take according to the level of crime near me. 
 
-- As a member of the local authorities, I want to gather more insights on crime in the area to obtain predictive safety data .
+- As a member of the local authorities, I want to gather more insights on crime in the area to obtain predictive safety data.
+- 
 ### Actors
-- Business & property owners 
-- Real estate agents 
+- Business & property owners  
 - Pedestrians 
 - Local authorities & council 
 
@@ -18,24 +18,24 @@
 
 | USE –CASE 1 | IDENTIFY CRIME HOTSPOTS |  
 | -------------------------------------- | ------------------- | 
-| **Description** | A business owner seeks to identify neighborhoods or areas with high foot traffic while ensuring safety from high crime rates to maximize customer visits and protect the business’s reputation. | 
-| **Actors** | - Primary Actor: Business Owner | 
-| | - Supporting Actors: Local Police Department (for crime data), Traffic Monitoring System, Commercial Real Estate Agents, Local Government (for zoning and safety regulations) | 
-| **Assumptions** | The business owner has access to local crime data and traffic statistics. | 
-| | - The real estate database or mapping service provides accurate information on foot traffic and safety in different areas. | 
-| | - Data sources are up-to-date. </td></tr> | 
-| **Steps** | 1. The business owner defines the criteria for a "high-traffic" area (e.g., busy streets, proximity to schools, parks, or other commercial centers). | 
-||2. The business owner reviews available crime data for these areas. | 
-||3. The business owner identifies high-traffic areas with low crime rates. | 
-||4. The business owner compares rent/prices and availability of properties in those areas. |  
-||5. The business owner selects the most suitable area for opening a business based on the combined factors of safety and foot traffic. | 
-| **Variations** | 1. The business owner finds no suitable areas with both high traffic and low crime, requiring a reassessment of business location priorities. | 
-||2. If crime data is unavailable or outdated, the owner may have to rely on local perceptions or anecdotal information. | 
+| **Description** | The user is able to view an interactive map which displays the crime levels of areas in Bristol, and can be filtered to show the most high-incident areas across the city. | 
+| **Actors** | User | 
+| **Assumptions** | - The user is able to navigate and interact with the map. | 
+| | - The user has access to a device and network. | 
+| | - Data source (OpenData Bristol) is up-to-date and system has access to this. </td></tr> | 
+| **Steps** | 1. The user navigates to the website. | 
+||2. The system loads the interactive map. | 
+||3. The map displays crime levels for different areas in Bristol. | 
+||4. The user interacts with the map (zooming, panning etc.). |  
+||5. The user applies filters to view high-incident areas. | 
+||6. The system updates the map based on the selected filters. |
+||7. The user reviews the filtered crime data. |
+| **Variations** | 1. User does not apply filters → The default crime data is displayed. | 
+||2. User selects specific areas only → The system updates the map to show selected areas. | 
 | **Non-functional** | - Performance: Data sources should be updated regularly, with real-time crime and traffic data accessible to the business owner. | 
 | | - Usability: The interface for reviewing crime and traffic data should be user-friendly. | 
-| | - Security: Business owner data and property search information should be securely stored. | 
+| | - Security: User data and property search information should be securely stored. | 
 | **Issues** | - Inaccurate or outdated crime data could lead to incorrect decisions about location. | 
-| | - High-traffic areas may come with higher property costs, which may not align with the business owner's budget. | 
 | | - Local crime spikes (e.g., temporary) may not be reflected in crime data. | 
 
 
