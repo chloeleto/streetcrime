@@ -3,16 +3,11 @@
 ## User Needs
 
 ### User stories
-- As a business owner I want to identify crime hotspots . 
+- As a business owner I want to identify crime hotspots in an accessible way like an interactive map with up-to-date data. 
 
-- As a pedestrian I want to see data about pedestrian-involved crime in areas that I frequently walk so that I know the safest areas to walk in. 
+- As a pedestrian I want to determine the safest walking route for me to take according to the level of crime near me. 
 
-- As a member of the local authorities, I want to enforce community policing so that we can reduce crime, improve safety, and enhance the quality of life in the area. 
-
-- As a real estate agent I want information on crime rates, neighborhood safety, and community amenities so that I can help clients make informed decisions in their choice of home. 
-
-- As a member of the local council I want access to predictive crime data, so that I can plan for future challenges and mitigate risks proactively 
-
+- As a member of the local authorities, I want to gather more insights on crime in the area to obtain predictive safety data .
 ### Actors
 - Business & property owners 
 - Real estate agents 
