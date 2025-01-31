@@ -41,13 +41,13 @@
 
 | USE-CASE 2 | DETERMINE THE SAFEST WALKING ROUTE |  
 | -------------------------------------- | ------------------- | 
-| **Description** | A pedestrian wants to access real-time data about pedestrian-related crime in areas they frequently walk in order to make informed decisions about which| areas are the safest to walk through. | 
-| **Actors** | - Primary Actor: Pedestrian (User)  |
-| |- Supporting Actors: Local Law Enforcement (providing crime data), Mobile App or Website Interface (delivers crime data to the pedestrian), Data Aggregation System |(collects and compiles data) | 
-| **Assumptions** | - The pedestrian has access to a device (smartphone, computer) that can access crime data.|  
+| **Description** | Determine the safest walking route for a pedestrian to take according to the level of crime near them on the interactive map. | 
+| **Actors** | User |
+|| - Mobile App or Website Interface (delivers crime data to the pedestrian), Data Aggregation System (collects and compiles data) | 
+| **Assumptions** | - The map and routing system function correctly.|  
 ||- Crime data is up-to-date, accurate, and available for the areas the pedestrian frequents.|  
 ||- The pedestrian knows how to use the app or website interface. </td></tr> 
-| **Steps** | 1. Pedestrian opens a mobile app or website that provides crime data.  |
+| **Steps** | 1. User opens a mobile app or website that provides crime data.  |
 ||2. Pedestrian enters or selects their frequently walked areas (e.g., home, work, park).  |
 ||3. The system retrieves and displays crime data for pedestrian-related crimes in those areas.  |
 ||4. Pedestrian reviews the crime data, which may include types of crimes, frequency, and trends over time.  |
@@ -61,27 +61,26 @@
 ||- Budget constraints could limit the number of officers available for community patrols.  |
 ||- Inconsistent crime data or lack of updated information could lead to ineffective deployment of resources. | 
 
-| USE-CASE 3 | LOCAL COUNCIL & AUTHORITIES |  
+| USE-CASE 3 | Gather insight for predictive safety data |  
 | -------------------------------------- | ------------------- | 
-| **Description** | A local authority member aims to enforce community policing initiatives, including fostering relationships with residents and increasing law enforcement visibility, to reduce crime and improve overall public safety and quality of life. | 
-| **Actors** | - Primary Actor: Local Authority Member (Police Officer,  Community Liaison) | 
-|| - Supporting Actors: Local Residents, Community Watch Groups, Law Enforcement Agencies, City Council, Data Systems (crime databases, traffic systems) | 
-| **Assumptions** | - The local authority has access to accurate crime data and community feedback. | Residents are open to community policing efforts and will cooperate with law enforcement. | 
-|| - Sufficient resources (personnel, time) are available for community policing efforts. |  
-| **Steps** | 1. Local authority member analyzes crime data and identifies high-crime areas. | 
-||2. Local authority develops a community policing strategy tailored to those areas (e.g., neighborhood patrols, community meetings). | 
-||3. The authority engages residents through outreach programs, town halls, and partnerships with community organizations. | 
-||4. Community policing initiatives are deployed (e.g., regular patrols, increased officer presence). | 
-||5. Local authority gathers ongoing feedback from the community to evaluate effectiveness and make adjustments. | 
-||6. The authority continues monitoring crime data, adjusting patrols or engagement efforts based on evolving crime patterns. | 
-| **Variations** | 1. If community members are resistant to community policing, additional outreach or conflict resolution efforts may be required. | 
-||2. If crime data shows new hotspots, the local authority may need to shift resources to address these areas. | 
+| **Description** | Gather more insights on crime in the area to obtain predictive safety data. | 
+| **Actors** | User | 
+|| - Supporting Actors: Data Systems (crime databases, traffic systems) | 
+| **Assumptions** | - The predictive analytics and data visualization tools are accurate and functional. |
+|| - Crime data is integrated properly into the system. | 
+| **Steps** | 1. The user navigates to the safety insights section of the website. | 
+||2. The system loads the interactive graph displaying historical and predictive crime data. | 
+||3. The user selects the area they want to analyze from the graph. | 
+||4. The user chooses the type of predictive data they want to view. | 
+||5. The interactive graph updates, displaying crime predictions for the selected area. | 
+| **Variations** | 1. User adjusts graph settings → The system updates the graph dynamically based on new filters. | 
+||2. Crime data is incomplete or unavailable → The system notifies the user and provides generalized predictions. | 
 | **Non-functional** | - Performance: Real-time data analysis and monitoring of crime trends. | 
 || - Usability: The tools used for communication with the community (e.g., websites, apps, | | or hotlines) should be user-friendly and accessible. | 
 || - Scalability: The community policing program should be scalable to different neighborhoods with varying levels of crime. | 
-| **Issues** | - Limited community engagement or resistance to policing initiatives could |    | |hinder program effectiveness. | 
-|| - Budget constraints could limit the number of officers available for community patrols. | 
-|| - Inconsistent crime data or lack of updated information could lead to ineffective deployment of resources.| 
+| **Issues** | - Limited community engagement or resistance to policing initiatives could hinder program effectiveness. | 
+|| - Predictive data may be based on outdated or incomplete information if crime data is delayed.. | 
+|| - Predictions are based on models, and may not always account for sudden shifts in crime patterns..| 
 
 TODO: Your Use-Case diagram should include all use-cases.
 
